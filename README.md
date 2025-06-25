@@ -90,6 +90,3 @@ I thrive at the intersection of data and business strategy, translating business
 <p align="center">
   Crafted with ❤️ by Dipika Mohanty | Turning Data into Decisions
 </p>
-
-
-![counter](https://[YourEndpoint].m.pipedream.net)
