@@ -16,8 +16,9 @@ Hi, I'm Dipika, a data-driven problem solver with 4 years of work experience and
 - Building and maintaining efficient ETL workflows in Snowflake, AWS, and Azure to streamline operations
 - Delving into A/B testing, trend analysis, and business intelligence to extract actionable insights
 
-🌱 What drives me? <\br>
-I thrive at the intersection of data and business strategy—translating business needs into technical solutions and making data accessible to both technical and non-technical stakeholders. Whether I’m designing intuitive dashboards, optimizing data pipelines, or transforming messy datasets into clear, compelling narratives, I’m fueled by curiosity, collaboration, and a passion for turning insights into meaningful impact.
+🌱 What drives me?
+
+I thrive at the intersection of data and business strategy, translating business needs into technical solutions and making data accessible to both technical and non-technical stakeholders. Whether I’m designing intuitive dashboards, optimizing data pipelines, or transforming messy datasets into clear, compelling narratives, I’m fueled by curiosity, collaboration, and a passion for turning insights into meaningful impact.
 
 
 ---
