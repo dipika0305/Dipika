@@ -82,7 +82,7 @@ I thrive at the intersection of data and business strategy—translating busines
 
 # ✍️ Data Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ayu-mirage)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
